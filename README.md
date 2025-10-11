@@ -4,8 +4,6 @@
 
 
 ### About Me
-- 🧠 I know what I’m doing… *most of the time.*  
-- 🐛 I don't make mistakes — I create **unexpected features**.  
 - 💬 My code never breaks... it just **starts behaving differently**.  
 - 🕹 Currently building apps that may or may not work in production.  
 - 🎯 Goal: Write code so clean that even my future self says, "Nice work, bro."
