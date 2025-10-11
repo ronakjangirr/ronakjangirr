@@ -10,7 +10,7 @@
 
 
 ### Tech Arsenal
-- **Frontend:** React, JavaScript, Bootstrap, MUI, ShadCN, Tailwind, HTML & CSS  
+- **Frontend:** React, JavaScript, Redux, Bootstrap, MUI, ShadCN, Tailwind, HTML & CSS  
 - **Backend:** Node.js, Express, Redis, MySQL & MongoDB 
 - **Other Powers:** Git ⚔️, Postman 💌  
 - **Exploring:** NextJS, NestJS, Typescript, AWS, Docker 🐳 & Kubernetes. 
