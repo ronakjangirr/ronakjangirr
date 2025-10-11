@@ -1,4 +1,4 @@
-# Hello world  
+# Hello bro
 
 > 💻 Full Stack Developer by profession and by luck,  
 
@@ -20,7 +20,7 @@
 - Favorite debugging tool? `console.log("wtf")`.  
 
 Cheers,
-Ronak Jangir  
+- Ronak Jangir  
 <!--
 **ronakjangirr/ronakjangirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
