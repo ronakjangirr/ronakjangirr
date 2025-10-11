@@ -1,5 +1,4 @@
-## Hi there 👋
-# 👋 Hey there, I'm Ronak Jangir  
+# Hello world  
 
 > 💻 Full Stack Developer by profession and by luck,  
 
@@ -13,24 +12,17 @@
 
 
 ### Tech Arsenal
-> The tools I use to fight the bugs:
-- **Frontend:** React ⚛️, JavaScript 🪄, Bootstrap, MUI, ShadCN, Tailwind, HTML & CSS 🎨  
-- **Backend:** Node.js ⚙️, Express 🚀, Redis, Mysql & MongoDB 🍃  
+- **Frontend:** React, JavaScript, Bootstrap, MUI, ShadCN, Tailwind, HTML & CSS  
+- **Backend:** Node.js, Express, Redis, MySQL & MongoDB 
 - **Other Powers:** Git ⚔️, Postman 💌  
 - **Exploring:** NextJS, NestJS, Typescript, AWS, Docker 🐳 & Kubernetes. 
 
 
 ### 💬 Fun Facts
-- I once fixed a bug and accidentally created three more.  
 - My favorite debugging tool? `console.log("wtf")`.  
 
-
-
-### 📫 Connect with Me
-- 🐙 [GitHub](https://github.com/ronakjangir530)  
-- 💼 [LinkedIn](#)  
-- 📧 [Email me](mailto:yourname@example.com)
-
+Cheers,
+Ronak Jangir
 <!--
 **ronakjangirr/ronakjangirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
