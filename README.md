@@ -1,6 +1,6 @@
 # Hello bro
 
-> 💻 Full Stack Developer by profession and by luck,  
+> 💻 Full Stack Developer by profession and by client's requirement.  
 
 
 ### About Me
