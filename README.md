@@ -11,7 +11,8 @@
 
 ### Tech Arsenal
 - **Frontend:** ReactJS, Redux, JavaScript, Bootstrap, MUI, ShadCN, Tailwind, HTML & CSS  
-- **Backend:** Node.js, Express, Redis, MySQL & MongoDB 
+- **Backend:** Node.js, Express, Redis, MySQL & MongoDB
+- **GEN AI & LLMs:** Groq & OpenAi Apis, Vector DB (Pinecone), LangChain, Ollama, Embeddings, Fine-tunings, RAG System, & Prompt Engineering  
 - **Other Powers:** Git ⚔️, Postman 💌  
 - **Exploring:** NextJS, NestJS, Typescript, AWS, Docker 🐳 & Kubernetes. 
 
